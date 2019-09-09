@@ -8,7 +8,7 @@
         <version>2.1.8.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.jha.test</groupId>
+    <groupId>com.jha.fx</groupId>
     <artifactId>fx-rest-with-cache-model</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>fx-rest-with-cache-model</name>

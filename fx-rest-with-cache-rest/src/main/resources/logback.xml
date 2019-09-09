@@ -16,7 +16,7 @@
         </encoder>
     </appender>
 
-    <logger name="com.jha.test" level="info" additivity="false" >
+    <logger name="com.jha.fx" level="info" additivity="false" >
         <appender-ref ref="FILE-ROLLING"/>
     </logger>
 

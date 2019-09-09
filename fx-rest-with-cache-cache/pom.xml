@@ -47,7 +47,7 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>com.jha.test</groupId>
+            <groupId>com.jha.fx</groupId>
             <artifactId>fx-rest-with-cache-model</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
