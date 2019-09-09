@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fx-rest-with-cache-cache" />
+        <module name="fx-rest-with-cache-model" />
+        <module name="fx-rest-with-cache-rest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fx-rest-with-cache-cache" target="1.8" />
+      <module name="fx-rest-with-cache-model" target="1.8" />
+      <module name="fx-rest-with-cache-parent" target="1.8" />
+      <module name="fx-rest-with-cache-rest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="fx-rest-with-cache-cache" options="-parameters" />
+      <module name="fx-rest-with-cache-model" options="-parameters" />
+      <module name="fx-rest-with-cache-rest" options="-parameters" />
+    </option>
+  </component>
+</project>
